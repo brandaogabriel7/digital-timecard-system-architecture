@@ -1,0 +1,255 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "lastModifiedDate" : "2023-06-30T23:27:05Z",
+  "lastModifiedAgent" : "structurizr-javascript",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgLy8gUGVyc29uIGFuZCBTb2Z0d2FyZSBTeXN0ZW0gZGVmaW5pdGlvbnMKCiAgICAgICAgZW1wbG95ZWUgPSBwZXJzb24gIkVtcGxveWVlIiAiQW4gZW1wbG95ZWUgdGhhdCB1c2VzIHRoZSB0aW1lY2FyZCBzeXN0ZW0gdG8gcHVuY2ggaW4gYW5kIG91dCBvZiB3b3JrIgogICAgICAgIG1hbmFnZXIgPSBwZXJzb24gIk1hbmFnZXIiICJBIG1hbmFnZXIgdGhhdCBhcHByb3ZlcyB0aW1lY2FyZHMiCiAgICAgICAgdGltZWNhcmRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiU29mdHdhcmUgU3lzdGVtIiAiQSBzb2Z0d2FyZSBzeXN0ZW0gdGhhdCBhbGxvd3MgZW1wbG95ZWVzIHRvIHB1bmNoIGluIGFuZCBvdXQgb2Ygd29yayIgewogICAgICAgICAgICBrZXljbG9hayA9IGNvbnRhaW5lciAiS2V5Y2xvYWsiICJVc2VkIHRvIGF1dGhlbnRpY2F0ZSBlbXBsb3llZXMiICJLZXljbG9hayIKICAgICAgICAgICAgZGF0YWJhc2UgPSBjb250YWluZXIgIkRhdGFiYXNlIiAiU3RvcmVzIGluZm9ybWF0aW9uIGFib3V0IGVtcGxveWVlcywgdGltZWNhcmRzLCBldGMiICJQb3N0Z3JlU1FMIgogICAgICAgICAgICBrYWZrYSA9IGNvbnRhaW5lciAiS2Fma2EiICJBIG1lc3NhZ2UgYnJva2VyIHVzZWQgdG8gc2VuZCBtZXNzYWdlcyBiZXR3ZWVuIHRoZSB0aW1lY2FyZCBzeXN0ZW0gYW5kIHRoZSBkYXRhYmFzZSIgIkthZmthIgogICAgICAgICAgICB3ZWJBcHAgPSBjb250YWluZXIgIldlYiBBcHAiICJBIHdlYiBhcHBsaWNhdGlvbiB0aGF0IGFsbG93cyBlbXBsb3llZXMgdG8gcHVuY2ggaW4gYW5kIG91dCBvZiB3b3JrIGFuZCBtYW5hZ2VycyB0byBhcHByb3ZlIHRpbWVjYXJkcyIgIlJlYWN0IgogICAgICAgICAgICBhcGkgPSBjb250YWluZXIgIkFQSSIgIkFuIEFQSSB0aGF0IGFsbG93cyB0aGUgd2ViIGFwcCB0byBjb21tdW5pY2F0ZSB3aXRoIHRoZSB0aW1lY2FyZCBzeXN0ZW0iICJHb2xhbmciCiAgICAgICAgfQoKICAgICAgICAvLyBQZXJzb24tQ29udGFpbmVyIHJlbGF0aW9uc2hpcHMKCiAgICAgICAgZW1wbG95ZWUgLT4gd2ViQXBwICJQdW5jaGVzIEluL091dCwgVmlld3MgVGltZWNhcmRzIgogICAgICAgIG1hbmFnZXIgLT4gd2ViQXBwICJBcHByb3ZlcyBUaW1lY2FyZHMiCgogICAgICAgIC8vIENvbnRhaW5lci1Db250YWluZXIgcmVsYXRpb25zaGlwcwoKICAgICAgICB3ZWJBcHAgLT4gYXBpICJBdXRoZW50aWNhdGVzIHVzZXJzLCBzZW5kcy9yZWNlaXZlcyBkYXRhIgogICAgICAgIGFwaSAtPiBrZXljbG9hayAiQXV0aGVudGljYXRlcyB1c2VycyIKICAgICAgICBhcGkgLT4ga2Fma2EgIlNlbmRzYSBhbmQgcmV0cmlldmVzIHRpbWVjYXJkIGRhdGEiCiAgICAgICAga2Fma2EgLT4gZGF0YWJhc2UgIlN0b3JlcyB0aW1lY2FyZCBkYXRhIgogICAgfQoKICAgIC8vIFZpZXdzIHNlY3Rpb24KCiAgICB2aWV3cyB7CiAgICAgICAgdGhlbWVzIGRlZmF1bHQgImh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvbWljcm9zb2Z0LWF6dXJlLTIwMjMuMDEuMjQvdGhlbWUuanNvbiIKICAgICAgICBzeXN0ZW1Db250ZXh0IHRpbWVjYXJkU3lzdGVtICJTeXN0ZW1Db250ZXh0IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgdGltZWNhcmRTeXN0ZW0gIkNvbnRhaW5lckNvbnRleHQiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CiAgICB9Cgp9Cg=="
+  },
+  "configuration" : { },
+  "model" : {
+    "people" : [ {
+      "id" : "2",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "manager"
+      },
+      "name" : "Manager",
+      "description" : "A manager that approves timecards",
+      "relationships" : [ {
+        "id" : "11",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "7",
+        "description" : "Approves Timecards"
+      }, {
+        "id" : "12",
+        "sourceId" : "2",
+        "destinationId" : "3",
+        "description" : "Approves Timecards",
+        "linkedRelationshipId" : "11"
+      } ],
+      "location" : "Unspecified"
+    }, {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "employee"
+      },
+      "name" : "Employee",
+      "description" : "An employee that uses the timecard system to punch in and out of work",
+      "relationships" : [ {
+        "id" : "10",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "Punches In/Out, Views Timecards",
+        "linkedRelationshipId" : "9"
+      }, {
+        "id" : "9",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "7",
+        "description" : "Punches In/Out, Views Timecards"
+      } ],
+      "location" : "Unspecified"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "3",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "timecardsystem"
+      },
+      "name" : "Software System",
+      "description" : "A software system that allows employees to punch in and out of work",
+      "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "8",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "api"
+        },
+        "name" : "API",
+        "description" : "An API that allows the web app to communicate with the timecard system",
+        "relationships" : [ {
+          "id" : "15",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "6",
+          "description" : "Sendsa and retrieves timecard data"
+        }, {
+          "id" : "14",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "4",
+          "description" : "Authenticates users"
+        } ],
+        "technology" : "Golang",
+        "documentation" : { }
+      }, {
+        "id" : "5",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "database"
+        },
+        "name" : "Database",
+        "description" : "Stores information about employees, timecards, etc",
+        "technology" : "PostgreSQL",
+        "documentation" : { }
+      }, {
+        "id" : "6",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "kafka"
+        },
+        "name" : "Kafka",
+        "description" : "A message broker used to send messages between the timecard system and the database",
+        "relationships" : [ {
+          "id" : "16",
+          "tags" : "Relationship",
+          "sourceId" : "6",
+          "destinationId" : "5",
+          "description" : "Stores timecard data"
+        } ],
+        "technology" : "Kafka",
+        "documentation" : { }
+      }, {
+        "id" : "4",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "keycloak"
+        },
+        "name" : "Keycloak",
+        "description" : "Used to authenticate employees",
+        "technology" : "Keycloak",
+        "documentation" : { }
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "webapp"
+        },
+        "name" : "Web App",
+        "description" : "A web application that allows employees to punch in and out of work and managers to approve timecards",
+        "relationships" : [ {
+          "id" : "13",
+          "tags" : "Relationship",
+          "sourceId" : "7",
+          "destinationId" : "8",
+          "description" : "Authenticates users, sends/receives data"
+        } ],
+        "technology" : "React",
+        "documentation" : { }
+      } ],
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemContextViews" : [ {
+      "key" : "SystemContext",
+      "order" : 1,
+      "softwareSystemId" : "3",
+      "paperSize" : "A5_Landscape",
+      "dimensions" : {
+        "width" : 1516,
+        "height" : 1416
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "relationships" : [ {
+        "id" : "12"
+      }, {
+        "id" : "10"
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 208,
+        "y" : 208
+      }, {
+        "id" : "2",
+        "x" : 908,
+        "y" : 208
+      }, {
+        "id" : "3",
+        "x" : 533,
+        "y" : 908
+      } ]
+    } ],
+    "containerViews" : [ {
+      "key" : "ContainerContext",
+      "order" : 2,
+      "softwareSystemId" : "3",
+      "dimensions" : {
+        "width" : 1640,
+        "height" : 3291
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "relationships" : [ {
+        "id" : "16"
+      }, {
+        "id" : "15"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "13"
+      }, {
+        "id" : "11"
+      }, {
+        "id" : "9"
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 269,
+        "y" : 200
+      }, {
+        "id" : "2",
+        "x" : 969,
+        "y" : 200
+      }, {
+        "id" : "4",
+        "x" : 219,
+        "y" : 2100
+      }, {
+        "id" : "5",
+        "x" : 969,
+        "y" : 2700
+      }, {
+        "id" : "6",
+        "x" : 969,
+        "y" : 2100
+      }, {
+        "id" : "7",
+        "x" : 594,
+        "y" : 900
+      }, {
+        "id" : "8",
+        "x" : 594,
+        "y" : 1500
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "themes" : [ "https://static.structurizr.com/themes/default/theme.json", "https://static.structurizr.com/themes/microsoft-azure-2023.01.24/theme.json" ],
+      "terminology" : { },
+      "metadataSymbols" : "SquareBrackets",
+      "lastSavedView" : "ContainerContext"
+    }
+  }
+}

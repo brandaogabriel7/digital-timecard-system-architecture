@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  structurizr:
+    image: structurizr/lite:3038
+    container_name: structurizr
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./structurizr:/usr/local/structurizr
